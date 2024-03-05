@@ -1,0 +1,17 @@
+{
+  "build": {
+    "content": [
+    ],
+    "resource": [
+    ],
+    "overwrite": [],
+    "externalReference": [],
+    "globalMetadata": {
+      "feedback_system": "Standard"
+    },
+    "fileMetadata": {},
+    "template": [],
+    "dest": "archive-template",
+    "markdownEngineName": "markdig"
+  }
+}
