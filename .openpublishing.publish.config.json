@@ -42,6 +42,8 @@
     }
   ],
   "branch_target_mapping": {},
+  "targets": {},
+  "docs_build_engine": {},
   "skip_source_output_uploading": false,
   "contribution_branch_mappings": {},
   "need_generate_pdf_url_template": false
