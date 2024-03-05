@@ -39,9 +39,19 @@
         "Conceptual": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes",
-      "base_path": "previous-versions",
-      "site_name": "Docs"
+      "template_folder": "_themes"
+    },
+    {
+      "docset_name": "archive-template_DS04",
+      "build_source_folder": "archive-template_DS04",
+      "build_output_subfolder": "archive-template_DS04",
+      "locale": "en-us",
+      "monikers": [],
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "build_entry_point": "docs"
     }
   ],
   "notification_subscribers": [],
