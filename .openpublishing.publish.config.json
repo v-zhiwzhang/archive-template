@@ -124,6 +124,18 @@
         "Conceptual": "Content"
       },
       "build_entry_point": "docs"
+    },
+    {
+      "docset_name": "archive-template_DS11",
+      "build_source_folder": "archive-template_DS11",
+      "build_output_subfolder": "archive-template_DS11",
+      "locale": "en-us",
+      "monikers": [],
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "build_entry_point": "docs"
     }
   ],
   "notification_subscribers": [],
